@@ -1,0 +1,7 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://plorix.io/:slug*", 
+       "permanent": true 
+     }
